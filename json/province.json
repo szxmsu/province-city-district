@@ -1,138 +1,172 @@
 ﻿[
   {
     "provinceID": 1,
+    "divisionCode": "110000",
     "provinceName": "北京市"
   },
   {
     "provinceID": 2,
+    "divisionCode": "120000",
     "provinceName": "天津市"
   },
   {
     "provinceID": 3,
+    "divisionCode": "130000",
     "provinceName": "河北省"
   },
   {
     "provinceID": 4,
+    "divisionCode": "140000",
     "provinceName": "山西省"
   },
   {
     "provinceID": 5,
+    "divisionCode": "150000",
     "provinceName": "内蒙古自治区"
   },
   {
     "provinceID": 6,
+    "divisionCode": "210000",
     "provinceName": "辽宁省"
   },
   {
     "provinceID": 7,
+    "divisionCode": "220000",
     "provinceName": "吉林省"
   },
   {
     "provinceID": 8,
+    "divisionCode": "230000",
     "provinceName": "黑龙江省"
   },
   {
     "provinceID": 9,
+    "divisionCode": "310000",
     "provinceName": "上海市"
   },
   {
     "provinceID": 10,
+    "divisionCode": "320000",
     "provinceName": "江苏省"
   },
   {
     "provinceID": 11,
+    "divisionCode": "330000",
     "provinceName": "浙江省"
   },
   {
     "provinceID": 12,
+    "divisionCode": "340000",
     "provinceName": "安徽省"
   },
   {
     "provinceID": 13,
+    "divisionCode": "350000",
     "provinceName": "福建省"
   },
   {
     "provinceID": 14,
+    "divisionCode": "360000",
     "provinceName": "江西省"
   },
   {
     "provinceID": 15,
+    "divisionCode": "370000",
     "provinceName": "山东省"
   },
   {
     "provinceID": 16,
+    "divisionCode": "410000",
     "provinceName": "河南省"
   },
   {
     "provinceID": 17,
+    "divisionCode": "420000",
     "provinceName": "湖北省"
   },
   {
     "provinceID": 18,
+    "divisionCode": "430000",
     "provinceName": "湖南省"
   },
   {
     "provinceID": 19,
+    "divisionCode": "440000",
     "provinceName": "广东省"
   },
   {
     "provinceID": 20,
+    "divisionCode": "450000",
     "provinceName": "广西壮族自治区"
   },
   {
     "provinceID": 21,
+    "divisionCode": "460000",
     "provinceName": "海南省"
   },
   {
     "provinceID": 22,
+    "divisionCode": "500000",
     "provinceName": "重庆市"
   },
   {
     "provinceID": 23,
+    "divisionCode": "510000",
     "provinceName": "四川省"
   },
   {
     "provinceID": 24,
+    "divisionCode": "520000",
     "provinceName": "贵州省"
   },
   {
     "provinceID": 25,
+    "divisionCode": "530000",
     "provinceName": "云南省"
   },
   {
     "provinceID": 26,
+    "divisionCode": "540000",
     "provinceName": "西藏自治区"
   },
   {
     "provinceID": 27,
+    "divisionCode": "610000",
     "provinceName": "陕西省"
   },
   {
     "provinceID": 28,
+    "divisionCode": "620000",
     "provinceName": "甘肃省"
   },
   {
     "provinceID": 29,
+    "divisionCode": "630000",
     "provinceName": "青海省"
   },
   {
     "provinceID": 30,
+    "divisionCode": "640000",
     "provinceName": "宁夏回族自治区"
   },
   {
     "provinceID": 31,
+    "divisionCode": "650000",
     "provinceName": "新疆维吾尔自治区"
   },
   {
     "provinceID": 32,
+    "divisionCode": "710000",
     "provinceName": "台湾省"
   },
   {
     "provinceID": 33,
+    "divisionCode": "810000",
     "provinceName": "香港特别行政区"
   },
   {
     "provinceID": 34,
+    "divisionCode": "820000",
     "provinceName": "澳门特别行政区"
   }
 ]

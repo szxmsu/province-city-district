@@ -2,1731 +2,2077 @@
   {
     "cityID": 1,
     "provinceID": 1,
+    "divisionCode": "110100",
     "cityName": "市辖区"
   },
   {
     "cityID": 2,
     "provinceID": 1,
+    "divisionCode": "110200",
     "cityName": "县"
   },
   {
     "cityID": 3,
     "provinceID": 2,
+    "divisionCode": "120100",
     "cityName": "市辖区"
   },
   {
     "cityID": 4,
     "provinceID": 2,
+    "divisionCode": "120200",
     "cityName": "县"
   },
   {
     "cityID": 5,
     "provinceID": 3,
+    "divisionCode": "130100",
     "cityName": "石家庄市"
   },
   {
     "cityID": 6,
     "provinceID": 3,
+    "divisionCode": "130200",
     "cityName": "唐山市"
   },
   {
     "cityID": 7,
     "provinceID": 3,
+    "divisionCode": "130300",
     "cityName": "秦皇岛市"
   },
   {
     "cityID": 8,
     "provinceID": 3,
+    "divisionCode": "130400",
     "cityName": "邯郸市"
   },
   {
     "cityID": 9,
     "provinceID": 3,
+    "divisionCode": "130500",
     "cityName": "邢台市"
   },
   {
     "cityID": 10,
     "provinceID": 3,
+    "divisionCode": "130600",
     "cityName": "保定市"
   },
   {
     "cityID": 11,
     "provinceID": 3,
+    "divisionCode": "130700",
     "cityName": "张家口市"
   },
   {
     "cityID": 12,
     "provinceID": 3,
+    "divisionCode": "130800",
     "cityName": "承德市"
   },
   {
     "cityID": 13,
     "provinceID": 3,
+    "divisionCode": "130900",
     "cityName": "沧州市"
   },
   {
     "cityID": 14,
     "provinceID": 3,
+    "divisionCode": "131000",
     "cityName": "廊坊市"
   },
   {
     "cityID": 15,
     "provinceID": 3,
+    "divisionCode": "131100",
     "cityName": "衡水市"
   },
   {
     "cityID": 16,
     "provinceID": 3,
+    "divisionCode": "139000",
     "cityName": "省直辖县级行政区划"
   },
   {
     "cityID": 17,
     "provinceID": 4,
+    "divisionCode": "140100",
     "cityName": "太原市"
   },
   {
     "cityID": 18,
     "provinceID": 4,
+    "divisionCode": "140200",
     "cityName": "大同市"
   },
   {
     "cityID": 19,
     "provinceID": 4,
+    "divisionCode": "140300",
     "cityName": "阳泉市"
   },
   {
     "cityID": 20,
     "provinceID": 4,
+    "divisionCode": "140400",
     "cityName": "长治市"
   },
   {
     "cityID": 21,
     "provinceID": 4,
+    "divisionCode": "140500",
     "cityName": "晋城市"
   },
   {
     "cityID": 22,
     "provinceID": 4,
+    "divisionCode": "140600",
     "cityName": "朔州市"
   },
   {
     "cityID": 23,
     "provinceID": 4,
+    "divisionCode": "140700",
     "cityName": "晋中市"
   },
   {
     "cityID": 24,
     "provinceID": 4,
+    "divisionCode": "140800",
     "cityName": "运城市"
   },
   {
     "cityID": 25,
     "provinceID": 4,
+    "divisionCode": "140900",
     "cityName": "忻州市"
   },
   {
     "cityID": 26,
     "provinceID": 4,
+    "divisionCode": "141000",
     "cityName": "临汾市"
   },
   {
     "cityID": 27,
     "provinceID": 4,
+    "divisionCode": "141100",
     "cityName": "吕梁市"
   },
   {
     "cityID": 28,
     "provinceID": 5,
+    "divisionCode": "150100",
     "cityName": "呼和浩特市"
   },
   {
     "cityID": 29,
     "provinceID": 5,
+    "divisionCode": "150200",
     "cityName": "包头市"
   },
   {
     "cityID": 30,
     "provinceID": 5,
+    "divisionCode": "150300",
     "cityName": "乌海市"
   },
   {
     "cityID": 31,
     "provinceID": 5,
+    "divisionCode": "150400",
     "cityName": "赤峰市"
   },
   {
     "cityID": 32,
     "provinceID": 5,
+    "divisionCode": "150500",
     "cityName": "通辽市"
   },
   {
     "cityID": 33,
     "provinceID": 5,
+    "divisionCode": "150600",
     "cityName": "鄂尔多斯市"
   },
   {
     "cityID": 34,
     "provinceID": 5,
+    "divisionCode": "150700",
     "cityName": "呼伦贝尔市"
   },
   {
     "cityID": 35,
     "provinceID": 5,
+    "divisionCode": "150800",
     "cityName": "巴彦淖尔市"
   },
   {
     "cityID": 36,
     "provinceID": 5,
+    "divisionCode": "150900",
     "cityName": "乌兰察布市"
   },
   {
     "cityID": 37,
     "provinceID": 5,
+    "divisionCode": "152200",
     "cityName": "兴安盟"
   },
   {
     "cityID": 38,
     "provinceID": 5,
+    "divisionCode": "152500",
     "cityName": "锡林郭勒盟"
   },
   {
     "cityID": 39,
     "provinceID": 5,
+    "divisionCode": "152900",
     "cityName": "阿拉善盟"
   },
   {
     "cityID": 40,
     "provinceID": 6,
+    "divisionCode": "210100",
     "cityName": "沈阳市"
   },
   {
     "cityID": 41,
     "provinceID": 6,
+    "divisionCode": "210200",
     "cityName": "大连市"
   },
   {
     "cityID": 42,
     "provinceID": 6,
+    "divisionCode": "210300",
     "cityName": "鞍山市"
   },
   {
     "cityID": 43,
     "provinceID": 6,
+    "divisionCode": "210400",
     "cityName": "抚顺市"
   },
   {
     "cityID": 44,
     "provinceID": 6,
+    "divisionCode": "210500",
     "cityName": "本溪市"
   },
   {
     "cityID": 45,
     "provinceID": 6,
+    "divisionCode": "210600",
     "cityName": "丹东市"
   },
   {
     "cityID": 46,
     "provinceID": 6,
+    "divisionCode": "210700",
     "cityName": "锦州市"
   },
   {
     "cityID": 47,
     "provinceID": 6,
+    "divisionCode": "210800",
     "cityName": "营口市"
   },
   {
     "cityID": 48,
     "provinceID": 6,
+    "divisionCode": "210900",
     "cityName": "阜新市"
   },
   {
     "cityID": 49,
     "provinceID": 6,
+    "divisionCode": "211000",
     "cityName": "辽阳市"
   },
   {
     "cityID": 50,
     "provinceID": 6,
+    "divisionCode": "211100",
     "cityName": "盘锦市"
   },
   {
     "cityID": 51,
     "provinceID": 6,
+    "divisionCode": "211200",
     "cityName": "铁岭市"
   },
   {
     "cityID": 52,
     "provinceID": 6,
+    "divisionCode": "211300",
     "cityName": "朝阳市"
   },
   {
     "cityID": 53,
     "provinceID": 6,
+    "divisionCode": "211400",
     "cityName": "葫芦岛市"
   },
   {
     "cityID": 54,
     "provinceID": 7,
+    "divisionCode": "220100",
     "cityName": "长春市"
   },
   {
     "cityID": 55,
     "provinceID": 7,
+    "divisionCode": "220200",
     "cityName": "吉林市"
   },
   {
     "cityID": 56,
     "provinceID": 7,
+    "divisionCode": "220300",
     "cityName": "四平市"
   },
   {
     "cityID": 57,
     "provinceID": 7,
+    "divisionCode": "220400",
     "cityName": "辽源市"
   },
   {
     "cityID": 58,
     "provinceID": 7,
+    "divisionCode": "220500",
     "cityName": "通化市"
   },
   {
     "cityID": 59,
     "provinceID": 7,
+    "divisionCode": "220600",
     "cityName": "白山市"
   },
   {
     "cityID": 60,
     "provinceID": 7,
+    "divisionCode": "220700",
     "cityName": "松原市"
   },
   {
     "cityID": 61,
     "provinceID": 7,
+    "divisionCode": "220800",
     "cityName": "白城市"
   },
   {
     "cityID": 62,
     "provinceID": 7,
+    "divisionCode": "222400",
     "cityName": "延边朝鲜族自治州"
   },
   {
     "cityID": 63,
     "provinceID": 8,
+    "divisionCode": "230100",
     "cityName": "哈尔滨市"
   },
   {
     "cityID": 64,
     "provinceID": 8,
+    "divisionCode": "230200",
     "cityName": "齐齐哈尔市"
   },
   {
     "cityID": 65,
     "provinceID": 8,
+    "divisionCode": "230300",
     "cityName": "鸡西市"
   },
   {
     "cityID": 66,
     "provinceID": 8,
+    "divisionCode": "230400",
     "cityName": "鹤岗市"
   },
   {
     "cityID": 67,
     "provinceID": 8,
+    "divisionCode": "230500",
     "cityName": "双鸭山市"
   },
   {
     "cityID": 68,
     "provinceID": 8,
+    "divisionCode": "230600",
     "cityName": "大庆市"
   },
   {
     "cityID": 69,
     "provinceID": 8,
+    "divisionCode": "230700",
     "cityName": "伊春市"
   },
   {
     "cityID": 70,
     "provinceID": 8,
+    "divisionCode": "230800",
     "cityName": "佳木斯市"
   },
   {
     "cityID": 71,
     "provinceID": 8,
+    "divisionCode": "230900",
     "cityName": "七台河市"
   },
   {
     "cityID": 72,
     "provinceID": 8,
+    "divisionCode": "231000",
     "cityName": "牡丹江市"
   },
   {
     "cityID": 73,
     "provinceID": 8,
+    "divisionCode": "231100",
     "cityName": "黑河市"
   },
   {
     "cityID": 74,
     "provinceID": 8,
+    "divisionCode": "231200",
     "cityName": "绥化市"
   },
   {
     "cityID": 75,
     "provinceID": 8,
+    "divisionCode": "232700",
     "cityName": "大兴安岭地区"
   },
   {
     "cityID": 76,
     "provinceID": 9,
+    "divisionCode": "310100",
     "cityName": "市辖区"
   },
   {
     "cityID": 77,
     "provinceID": 9,
+    "divisionCode": "310200",
     "cityName": "县"
   },
   {
     "cityID": 78,
     "provinceID": 10,
+    "divisionCode": "320100",
     "cityName": "南京市"
   },
   {
     "cityID": 79,
     "provinceID": 10,
+    "divisionCode": "320200",
     "cityName": "无锡市"
   },
   {
     "cityID": 80,
     "provinceID": 10,
+    "divisionCode": "320300",
     "cityName": "徐州市"
   },
   {
     "cityID": 81,
     "provinceID": 10,
+    "divisionCode": "320400",
     "cityName": "常州市"
   },
   {
     "cityID": 82,
     "provinceID": 10,
+    "divisionCode": "320500",
     "cityName": "苏州市"
   },
   {
     "cityID": 83,
     "provinceID": 10,
+    "divisionCode": "320600",
     "cityName": "南通市"
   },
   {
     "cityID": 84,
     "provinceID": 10,
+    "divisionCode": "320700",
     "cityName": "连云港市"
   },
   {
     "cityID": 85,
     "provinceID": 10,
+    "divisionCode": "320800",
     "cityName": "淮安市"
   },
   {
     "cityID": 86,
     "provinceID": 10,
+    "divisionCode": "320900",
     "cityName": "盐城市"
   },
   {
     "cityID": 87,
     "provinceID": 10,
+    "divisionCode": "321000",
     "cityName": "扬州市"
   },
   {
     "cityID": 88,
     "provinceID": 10,
+    "divisionCode": "321100",
     "cityName": "镇江市"
   },
   {
     "cityID": 89,
     "provinceID": 10,
+    "divisionCode": "321200",
     "cityName": "泰州市"
   },
   {
     "cityID": 90,
     "provinceID": 10,
+    "divisionCode": "321300",
     "cityName": "宿迁市"
   },
   {
     "cityID": 91,
     "provinceID": 11,
+    "divisionCode": "330100",
     "cityName": "杭州市"
   },
   {
     "cityID": 92,
     "provinceID": 11,
+    "divisionCode": "330200",
     "cityName": "宁波市"
   },
   {
     "cityID": 93,
     "provinceID": 11,
+    "divisionCode": "330300",
     "cityName": "温州市"
   },
   {
     "cityID": 94,
     "provinceID": 11,
+    "divisionCode": "330400",
     "cityName": "嘉兴市"
   },
   {
     "cityID": 95,
     "provinceID": 11,
+    "divisionCode": "330500",
     "cityName": "湖州市"
   },
   {
     "cityID": 96,
     "provinceID": 11,
+    "divisionCode": "330600",
     "cityName": "绍兴市"
   },
   {
     "cityID": 97,
     "provinceID": 11,
+    "divisionCode": "330700",
     "cityName": "金华市"
   },
   {
     "cityID": 98,
     "provinceID": 11,
+    "divisionCode": "330800",
     "cityName": "衢州市"
   },
   {
     "cityID": 99,
     "provinceID": 11,
+    "divisionCode": "330900",
     "cityName": "舟山市"
   },
   {
     "cityID": 100,
     "provinceID": 11,
+    "divisionCode": "331000",
     "cityName": "台州市"
   },
   {
     "cityID": 101,
     "provinceID": 11,
+    "divisionCode": "331100",
     "cityName": "丽水市"
   },
   {
     "cityID": 102,
     "provinceID": 12,
+    "divisionCode": "340100",
     "cityName": "合肥市"
   },
   {
     "cityID": 103,
     "provinceID": 12,
+    "divisionCode": "340200",
     "cityName": "芜湖市"
   },
   {
     "cityID": 104,
     "provinceID": 12,
+    "divisionCode": "340300",
     "cityName": "蚌埠市"
   },
   {
     "cityID": 105,
     "provinceID": 12,
+    "divisionCode": "340400",
     "cityName": "淮南市"
   },
   {
     "cityID": 106,
     "provinceID": 12,
+    "divisionCode": "340500",
     "cityName": "马鞍山市"
   },
   {
     "cityID": 107,
     "provinceID": 12,
+    "divisionCode": "340600",
     "cityName": "淮北市"
   },
   {
     "cityID": 108,
     "provinceID": 12,
+    "divisionCode": "340700",
     "cityName": "铜陵市"
   },
   {
     "cityID": 109,
     "provinceID": 12,
+    "divisionCode": "340800",
     "cityName": "安庆市"
   },
   {
     "cityID": 110,
     "provinceID": 12,
+    "divisionCode": "341000",
     "cityName": "黄山市"
   },
   {
     "cityID": 111,
     "provinceID": 12,
+    "divisionCode": "341100",
     "cityName": "滁州市"
   },
   {
     "cityID": 112,
     "provinceID": 12,
+    "divisionCode": "341200",
     "cityName": "阜阳市"
   },
   {
     "cityID": 113,
     "provinceID": 12,
+    "divisionCode": "341300",
     "cityName": "宿州市"
   },
   {
     "cityID": 114,
     "provinceID": 12,
+    "divisionCode": "341500",
     "cityName": "六安市"
   },
   {
     "cityID": 115,
     "provinceID": 12,
+    "divisionCode": "341600",
     "cityName": "亳州市"
   },
   {
     "cityID": 116,
     "provinceID": 12,
+    "divisionCode": "341700",
     "cityName": "池州市"
   },
   {
     "cityID": 117,
     "provinceID": 12,
+    "divisionCode": "341800",
     "cityName": "宣城市"
   },
   {
     "cityID": 118,
     "provinceID": 13,
+    "divisionCode": "350100",
     "cityName": "福州市"
   },
   {
     "cityID": 119,
     "provinceID": 13,
+    "divisionCode": "350200",
     "cityName": "厦门市"
   },
   {
     "cityID": 120,
     "provinceID": 13,
+    "divisionCode": "350300",
     "cityName": "莆田市"
   },
   {
     "cityID": 121,
     "provinceID": 13,
+    "divisionCode": "350400",
     "cityName": "三明市"
   },
   {
     "cityID": 122,
     "provinceID": 13,
+    "divisionCode": "350500",
     "cityName": "泉州市"
   },
   {
     "cityID": 123,
     "provinceID": 13,
+    "divisionCode": "350600",
     "cityName": "漳州市"
   },
   {
     "cityID": 124,
     "provinceID": 13,
+    "divisionCode": "350700",
     "cityName": "南平市"
   },
   {
     "cityID": 125,
     "provinceID": 13,
+    "divisionCode": "350800",
     "cityName": "龙岩市"
   },
   {
     "cityID": 126,
     "provinceID": 13,
+    "divisionCode": "350900",
     "cityName": "宁德市"
   },
   {
     "cityID": 127,
     "provinceID": 14,
+    "divisionCode": "360100",
     "cityName": "南昌市"
   },
   {
     "cityID": 128,
     "provinceID": 14,
+    "divisionCode": "360200",
     "cityName": "景德镇市"
   },
   {
     "cityID": 129,
     "provinceID": 14,
+    "divisionCode": "360300",
     "cityName": "萍乡市"
   },
   {
     "cityID": 130,
     "provinceID": 14,
+    "divisionCode": "360400",
     "cityName": "九江市"
   },
   {
     "cityID": 131,
     "provinceID": 14,
+    "divisionCode": "360500",
     "cityName": "新余市"
   },
   {
     "cityID": 132,
     "provinceID": 14,
+    "divisionCode": "360600",
     "cityName": "鹰潭市"
   },
   {
     "cityID": 133,
     "provinceID": 14,
+    "divisionCode": "360700",
     "cityName": "赣州市"
   },
   {
     "cityID": 134,
     "provinceID": 14,
+    "divisionCode": "360800",
     "cityName": "吉安市"
   },
   {
     "cityID": 135,
     "provinceID": 14,
+    "divisionCode": "360900",
     "cityName": "宜春市"
   },
   {
     "cityID": 136,
     "provinceID": 14,
+    "divisionCode": "361000",
     "cityName": "抚州市"
   },
   {
     "cityID": 137,
     "provinceID": 14,
+    "divisionCode": "361100",
     "cityName": "上饶市"
   },
   {
     "cityID": 138,
     "provinceID": 15,
+    "divisionCode": "370100",
     "cityName": "济南市"
   },
   {
     "cityID": 139,
     "provinceID": 15,
+    "divisionCode": "370200",
     "cityName": "青岛市"
   },
   {
     "cityID": 140,
     "provinceID": 15,
+    "divisionCode": "370300",
     "cityName": "淄博市"
   },
   {
     "cityID": 141,
     "provinceID": 15,
+    "divisionCode": "370400",
     "cityName": "枣庄市"
   },
   {
     "cityID": 142,
     "provinceID": 15,
+    "divisionCode": "370500",
     "cityName": "东营市"
   },
   {
     "cityID": 143,
     "provinceID": 15,
+    "divisionCode": "370600",
     "cityName": "烟台市"
   },
   {
     "cityID": 144,
     "provinceID": 15,
+    "divisionCode": "370700",
     "cityName": "潍坊市"
   },
   {
     "cityID": 145,
     "provinceID": 15,
+    "divisionCode": "370800",
     "cityName": "济宁市"
   },
   {
     "cityID": 146,
     "provinceID": 15,
+    "divisionCode": "370900",
     "cityName": "泰安市"
   },
   {
     "cityID": 147,
     "provinceID": 15,
+    "divisionCode": "371000",
     "cityName": "威海市"
   },
   {
     "cityID": 148,
     "provinceID": 15,
+    "divisionCode": "371100",
     "cityName": "日照市"
   },
   {
     "cityID": 149,
     "provinceID": 15,
+    "divisionCode": "371200",
     "cityName": "莱芜市"
   },
   {
     "cityID": 150,
     "provinceID": 15,
+    "divisionCode": "371300",
     "cityName": "临沂市"
   },
   {
     "cityID": 151,
     "provinceID": 15,
+    "divisionCode": "371400",
     "cityName": "德州市"
   },
   {
     "cityID": 152,
     "provinceID": 15,
+    "divisionCode": "371500",
     "cityName": "聊城市"
   },
   {
     "cityID": 153,
     "provinceID": 15,
+    "divisionCode": "371600",
     "cityName": "滨州市"
   },
   {
     "cityID": 154,
     "provinceID": 15,
+    "divisionCode": "371700",
     "cityName": "菏泽市"
   },
   {
     "cityID": 155,
     "provinceID": 16,
+    "divisionCode": "410100",
     "cityName": "郑州市"
   },
   {
     "cityID": 156,
     "provinceID": 16,
+    "divisionCode": "410200",
     "cityName": "开封市"
   },
   {
     "cityID": 157,
     "provinceID": 16,
+    "divisionCode": "410300",
     "cityName": "洛阳市"
   },
   {
     "cityID": 158,
     "provinceID": 16,
+    "divisionCode": "410400",
     "cityName": "平顶山市"
   },
   {
     "cityID": 159,
     "provinceID": 16,
+    "divisionCode": "410500",
     "cityName": "安阳市"
   },
   {
     "cityID": 160,
     "provinceID": 16,
+    "divisionCode": "410600",
     "cityName": "鹤壁市"
   },
   {
     "cityID": 161,
     "provinceID": 16,
+    "divisionCode": "410700",
     "cityName": "新乡市"
   },
   {
     "cityID": 162,
     "provinceID": 16,
+    "divisionCode": "410800",
     "cityName": "焦作市"
   },
   {
     "cityID": 163,
     "provinceID": 16,
+    "divisionCode": "410900",
     "cityName": "濮阳市"
   },
   {
     "cityID": 164,
     "provinceID": 16,
+    "divisionCode": "411000",
     "cityName": "许昌市"
   },
   {
     "cityID": 165,
     "provinceID": 16,
+    "divisionCode": "411100",
     "cityName": "漯河市"
   },
   {
     "cityID": 166,
     "provinceID": 16,
+    "divisionCode": "411200",
     "cityName": "三门峡市"
   },
   {
     "cityID": 167,
     "provinceID": 16,
+    "divisionCode": "411300",
     "cityName": "南阳市"
   },
   {
     "cityID": 168,
     "provinceID": 16,
+    "divisionCode": "411400",
     "cityName": "商丘市"
   },
   {
     "cityID": 169,
     "provinceID": 16,
+    "divisionCode": "411500",
     "cityName": "信阳市"
   },
   {
     "cityID": 170,
     "provinceID": 16,
+    "divisionCode": "411600",
     "cityName": "周口市"
   },
   {
     "cityID": 171,
     "provinceID": 16,
+    "divisionCode": "411700",
     "cityName": "驻马店市"
   },
   {
     "cityID": 172,
     "provinceID": 16,
+    "divisionCode": "419000",
     "cityName": "省直辖县级行政区划"
   },
   {
     "cityID": 173,
     "provinceID": 17,
+    "divisionCode": "420100",
     "cityName": "武汉市"
   },
   {
     "cityID": 174,
     "provinceID": 17,
+    "divisionCode": "420200",
     "cityName": "黄石市"
   },
   {
     "cityID": 175,
     "provinceID": 17,
+    "divisionCode": "420300",
     "cityName": "十堰市"
   },
   {
     "cityID": 176,
     "provinceID": 17,
+    "divisionCode": "420500",
     "cityName": "宜昌市"
   },
   {
     "cityID": 177,
     "provinceID": 17,
+    "divisionCode": "420600",
     "cityName": "襄阳市"
   },
   {
     "cityID": 178,
     "provinceID": 17,
+    "divisionCode": "420700",
     "cityName": "鄂州市"
   },
   {
     "cityID": 179,
     "provinceID": 17,
+    "divisionCode": "420800",
     "cityName": "荆门市"
   },
   {
     "cityID": 180,
     "provinceID": 17,
+    "divisionCode": "420900",
     "cityName": "孝感市"
   },
   {
     "cityID": 181,
     "provinceID": 17,
+    "divisionCode": "421000",
     "cityName": "荆州市"
   },
   {
     "cityID": 182,
     "provinceID": 17,
+    "divisionCode": "421100",
     "cityName": "黄冈市"
   },
   {
     "cityID": 183,
     "provinceID": 17,
+    "divisionCode": "421200",
     "cityName": "咸宁市"
   },
   {
     "cityID": 184,
     "provinceID": 17,
+    "divisionCode": "421300",
     "cityName": "随州市"
   },
   {
     "cityID": 185,
     "provinceID": 17,
+    "divisionCode": "422800",
     "cityName": "恩施土家族苗族自治州"
   },
   {
     "cityID": 186,
     "provinceID": 17,
+    "divisionCode": "429000",
     "cityName": "省直辖县级行政区划"
   },
   {
     "cityID": 187,
     "provinceID": 18,
+    "divisionCode": "430100",
     "cityName": "长沙市"
   },
   {
     "cityID": 188,
     "provinceID": 18,
+    "divisionCode": "430200",
     "cityName": "株洲市"
   },
   {
     "cityID": 189,
     "provinceID": 18,
+    "divisionCode": "430300",
     "cityName": "湘潭市"
   },
   {
     "cityID": 190,
     "provinceID": 18,
+    "divisionCode": "430400",
     "cityName": "衡阳市"
   },
   {
     "cityID": 191,
     "provinceID": 18,
+    "divisionCode": "430500",
     "cityName": "邵阳市"
   },
   {
     "cityID": 192,
     "provinceID": 18,
+    "divisionCode": "430600",
     "cityName": "岳阳市"
   },
   {
     "cityID": 193,
     "provinceID": 18,
+    "divisionCode": "430700",
     "cityName": "常德市"
   },
   {
     "cityID": 194,
     "provinceID": 18,
+    "divisionCode": "430800",
     "cityName": "张家界市"
   },
   {
     "cityID": 195,
     "provinceID": 18,
+    "divisionCode": "430900",
     "cityName": "益阳市"
   },
   {
     "cityID": 196,
     "provinceID": 18,
+    "divisionCode": "431000",
     "cityName": "郴州市"
   },
   {
     "cityID": 197,
     "provinceID": 18,
+    "divisionCode": "431100",
     "cityName": "永州市"
   },
   {
     "cityID": 198,
     "provinceID": 18,
+    "divisionCode": "431200",
     "cityName": "怀化市"
   },
   {
     "cityID": 199,
     "provinceID": 18,
+    "divisionCode": "431300",
     "cityName": "娄底市"
   },
   {
     "cityID": 200,
     "provinceID": 18,
+    "divisionCode": "433100",
     "cityName": "湘西土家族苗族自治州"
   },
   {
     "cityID": 201,
     "provinceID": 19,
+    "divisionCode": "440100",
     "cityName": "广州市"
   },
   {
     "cityID": 202,
     "provinceID": 19,
+    "divisionCode": "440200",
     "cityName": "韶关市"
   },
   {
     "cityID": 203,
     "provinceID": 19,
+    "divisionCode": "440300",
     "cityName": "深圳市"
   },
   {
     "cityID": 204,
     "provinceID": 19,
+    "divisionCode": "440400",
     "cityName": "珠海市"
   },
   {
     "cityID": 205,
     "provinceID": 19,
+    "divisionCode": "440500",
     "cityName": "汕头市"
   },
   {
     "cityID": 206,
     "provinceID": 19,
+    "divisionCode": "440600",
     "cityName": "佛山市"
   },
   {
     "cityID": 207,
     "provinceID": 19,
+    "divisionCode": "440700",
     "cityName": "江门市"
   },
   {
     "cityID": 208,
     "provinceID": 19,
+    "divisionCode": "440800",
     "cityName": "湛江市"
   },
   {
     "cityID": 209,
     "provinceID": 19,
+    "divisionCode": "440900",
     "cityName": "茂名市"
   },
   {
     "cityID": 210,
     "provinceID": 19,
+    "divisionCode": "441200",
     "cityName": "肇庆市"
   },
   {
     "cityID": 211,
     "provinceID": 19,
+    "divisionCode": "441300",
     "cityName": "惠州市"
   },
   {
     "cityID": 212,
     "provinceID": 19,
+    "divisionCode": "441400",
     "cityName": "梅州市"
   },
   {
     "cityID": 213,
     "provinceID": 19,
+    "divisionCode": "441500",
     "cityName": "汕尾市"
   },
   {
     "cityID": 214,
     "provinceID": 19,
+    "divisionCode": "441600",
     "cityName": "河源市"
   },
   {
     "cityID": 215,
     "provinceID": 19,
+    "divisionCode": "441700",
     "cityName": "阳江市"
   },
   {
     "cityID": 216,
     "provinceID": 19,
+    "divisionCode": "441800",
     "cityName": "清远市"
   },
   {
     "cityID": 217,
     "provinceID": 19,
+    "divisionCode": "441900",
     "cityName": "东莞市"
   },
   {
     "cityID": 218,
     "provinceID": 19,
+    "divisionCode": "442000",
     "cityName": "中山市"
   },
   {
     "cityID": 219,
     "provinceID": 19,
+    "divisionCode": "445100",
     "cityName": "潮州市"
   },
   {
     "cityID": 220,
     "provinceID": 19,
+    "divisionCode": "445200",
     "cityName": "揭阳市"
   },
   {
     "cityID": 221,
     "provinceID": 19,
+    "divisionCode": "445300",
     "cityName": "云浮市"
   },
   {
     "cityID": 222,
     "provinceID": 20,
+    "divisionCode": "450100",
     "cityName": "南宁市"
   },
   {
     "cityID": 223,
     "provinceID": 20,
+    "divisionCode": "450200",
     "cityName": "柳州市"
   },
   {
     "cityID": 224,
     "provinceID": 20,
+    "divisionCode": "450300",
     "cityName": "桂林市"
   },
   {
     "cityID": 225,
     "provinceID": 20,
+    "divisionCode": "450400",
     "cityName": "梧州市"
   },
   {
     "cityID": 226,
     "provinceID": 20,
+    "divisionCode": "450500",
     "cityName": "北海市"
   },
   {
     "cityID": 227,
     "provinceID": 20,
+    "divisionCode": "450600",
     "cityName": "防城港市"
   },
   {
     "cityID": 228,
     "provinceID": 20,
+    "divisionCode": "450700",
     "cityName": "钦州市"
   },
   {
     "cityID": 229,
     "provinceID": 20,
+    "divisionCode": "450800",
     "cityName": "贵港市"
   },
   {
     "cityID": 230,
     "provinceID": 20,
+    "divisionCode": "450900",
     "cityName": "玉林市"
   },
   {
     "cityID": 231,
     "provinceID": 20,
+    "divisionCode": "451000",
     "cityName": "百色市"
   },
   {
     "cityID": 232,
     "provinceID": 20,
+    "divisionCode": "451100",
     "cityName": "贺州市"
   },
   {
     "cityID": 233,
     "provinceID": 20,
+    "divisionCode": "451200",
     "cityName": "河池市"
   },
   {
     "cityID": 234,
     "provinceID": 20,
+    "divisionCode": "451300",
     "cityName": "来宾市"
   },
   {
     "cityID": 235,
     "provinceID": 20,
+    "divisionCode": "451400",
     "cityName": "崇左市"
   },
   {
     "cityID": 236,
     "provinceID": 21,
+    "divisionCode": "460100",
     "cityName": "海口市"
   },
   {
     "cityID": 237,
     "provinceID": 21,
+    "divisionCode": "460200",
     "cityName": "三亚市"
   },
   {
     "cityID": 238,
     "provinceID": 21,
+    "divisionCode": "460300",
     "cityName": "三沙市"
   },
   {
     "cityID": 239,
     "provinceID": 21,
+    "divisionCode": "469000",
     "cityName": "省直辖县级行政区划"
   },
   {
     "cityID": 240,
     "provinceID": 22,
+    "divisionCode": "500100",
     "cityName": "市辖区"
   },
   {
     "cityID": 241,
     "provinceID": 22,
+    "divisionCode": "500200",
     "cityName": "县"
   },
   {
     "cityID": 242,
     "provinceID": 23,
+    "divisionCode": "510100",
     "cityName": "成都市"
   },
   {
     "cityID": 243,
     "provinceID": 23,
+    "divisionCode": "510300",
     "cityName": "自贡市"
   },
   {
     "cityID": 244,
     "provinceID": 23,
+    "divisionCode": "510400",
     "cityName": "攀枝花市"
   },
   {
     "cityID": 245,
     "provinceID": 23,
+    "divisionCode": "510500",
     "cityName": "泸州市"
   },
   {
     "cityID": 246,
     "provinceID": 23,
+    "divisionCode": "510600",
     "cityName": "德阳市"
   },
   {
     "cityID": 247,
     "provinceID": 23,
+    "divisionCode": "510700",
     "cityName": "绵阳市"
   },
   {
     "cityID": 248,
     "provinceID": 23,
+    "divisionCode": "510800",
     "cityName": "广元市"
   },
   {
     "cityID": 249,
     "provinceID": 23,
+    "divisionCode": "510900",
     "cityName": "遂宁市"
   },
   {
     "cityID": 250,
     "provinceID": 23,
+    "divisionCode": "511000",
     "cityName": "内江市"
   },
   {
     "cityID": 251,
     "provinceID": 23,
+    "divisionCode": "511100",
     "cityName": "乐山市"
   },
   {
     "cityID": 252,
     "provinceID": 23,
+    "divisionCode": "511300",
     "cityName": "南充市"
   },
   {
     "cityID": 253,
     "provinceID": 23,
+    "divisionCode": "511400",
     "cityName": "眉山市"
   },
   {
     "cityID": 254,
     "provinceID": 23,
+    "divisionCode": "511500",
     "cityName": "宜宾市"
   },
   {
     "cityID": 255,
     "provinceID": 23,
+    "divisionCode": "511600",
     "cityName": "广安市"
   },
   {
     "cityID": 256,
     "provinceID": 23,
+    "divisionCode": "511700",
     "cityName": "达州市"
   },
   {
     "cityID": 257,
     "provinceID": 23,
+    "divisionCode": "511800",
     "cityName": "雅安市"
   },
   {
     "cityID": 258,
     "provinceID": 23,
+    "divisionCode": "511900",
     "cityName": "巴中市"
   },
   {
     "cityID": 259,
     "provinceID": 23,
+    "divisionCode": "512000",
     "cityName": "资阳市"
   },
   {
     "cityID": 260,
     "provinceID": 23,
+    "divisionCode": "513200",
     "cityName": "阿坝藏族羌族自治州"
   },
   {
     "cityID": 261,
     "provinceID": 23,
+    "divisionCode": "513300",
     "cityName": "甘孜藏族自治州"
   },
   {
     "cityID": 262,
     "provinceID": 23,
+    "divisionCode": "513400",
     "cityName": "凉山彝族自治州"
   },
   {
     "cityID": 263,
     "provinceID": 24,
+    "divisionCode": "520100",
     "cityName": "贵阳市"
   },
   {
     "cityID": 264,
     "provinceID": 24,
+    "divisionCode": "520200",
     "cityName": "六盘水市"
   },
   {
     "cityID": 265,
     "provinceID": 24,
+    "divisionCode": "520300",
     "cityName": "遵义市"
   },
   {
     "cityID": 266,
     "provinceID": 24,
+    "divisionCode": "520400",
     "cityName": "安顺市"
   },
   {
     "cityID": 267,
     "provinceID": 24,
+    "divisionCode": "520500",
     "cityName": "毕节市"
   },
   {
     "cityID": 268,
     "provinceID": 24,
+    "divisionCode": "520600",
     "cityName": "铜仁市"
   },
   {
     "cityID": 269,
     "provinceID": 24,
+    "divisionCode": "522300",
     "cityName": "黔西南布依族苗族自治州"
   },
   {
     "cityID": 270,
     "provinceID": 24,
+    "divisionCode": "522600",
     "cityName": "黔东南苗族侗族自治州"
   },
   {
     "cityID": 271,
     "provinceID": 24,
+    "divisionCode": "522700",
     "cityName": "黔南布依族苗族自治州"
   },
   {
     "cityID": 272,
     "provinceID": 25,
+    "divisionCode": "530100",
     "cityName": "昆明市"
   },
   {
     "cityID": 273,
     "provinceID": 25,
+    "divisionCode": "530300",
     "cityName": "曲靖市"
   },
   {
     "cityID": 274,
     "provinceID": 25,
+    "divisionCode": "530400",
     "cityName": "玉溪市"
   },
   {
     "cityID": 275,
     "provinceID": 25,
+    "divisionCode": "530500",
     "cityName": "保山市"
   },
   {
     "cityID": 276,
     "provinceID": 25,
+    "divisionCode": "530600",
     "cityName": "昭通市"
   },
   {
     "cityID": 277,
     "provinceID": 25,
+    "divisionCode": "530700",
     "cityName": "丽江市"
   },
   {
     "cityID": 278,
     "provinceID": 25,
+    "divisionCode": "530800",
     "cityName": "普洱市"
   },
   {
     "cityID": 279,
     "provinceID": 25,
+    "divisionCode": "530900",
     "cityName": "临沧市"
   },
   {
     "cityID": 280,
     "provinceID": 25,
+    "divisionCode": "532300",
     "cityName": "楚雄彝族自治州"
   },
   {
     "cityID": 281,
     "provinceID": 25,
+    "divisionCode": "532500",
     "cityName": "红河哈尼族彝族自治州"
   },
   {
     "cityID": 282,
     "provinceID": 25,
+    "divisionCode": "532600",
     "cityName": "文山壮族苗族自治州"
   },
   {
     "cityID": 283,
     "provinceID": 25,
+    "divisionCode": "532800",
     "cityName": "西双版纳傣族自治州"
   },
   {
     "cityID": 284,
     "provinceID": 25,
+    "divisionCode": "532900",
     "cityName": "大理白族自治州"
   },
   {
     "cityID": 285,
     "provinceID": 25,
+    "divisionCode": "533100",
     "cityName": "德宏傣族景颇族自治州"
   },
   {
     "cityID": 286,
     "provinceID": 25,
+    "divisionCode": "533300",
     "cityName": "怒江傈僳族自治州"
   },
   {
     "cityID": 287,
     "provinceID": 25,
+    "divisionCode": "533400",
     "cityName": "迪庆藏族自治州"
   },
   {
     "cityID": 288,
     "provinceID": 26,
+    "divisionCode": "540100",
     "cityName": "拉萨市"
   },
   {
     "cityID": 289,
     "provinceID": 26,
+    "divisionCode": "540200",
     "cityName": "日喀则市"
   },
   {
     "cityID": 290,
     "provinceID": 26,
+    "divisionCode": "540300",
     "cityName": "昌都市"
   },
   {
     "cityID": 291,
     "provinceID": 26,
+    "divisionCode": "540400",
     "cityName": "林芝市"
   },
   {
     "cityID": 292,
     "provinceID": 26,
+    "divisionCode": "542200",
     "cityName": "山南地区"
   },
   {
     "cityID": 293,
     "provinceID": 26,
+    "divisionCode": "542400",
     "cityName": "那曲地区"
   },
   {
     "cityID": 294,
     "provinceID": 26,
+    "divisionCode": "542500",
     "cityName": "阿里地区"
   },
   {
     "cityID": 295,
     "provinceID": 27,
+    "divisionCode": "610100",
     "cityName": "西安市"
   },
   {
     "cityID": 296,
     "provinceID": 27,
+    "divisionCode": "610200",
     "cityName": "铜川市"
   },
   {
     "cityID": 297,
     "provinceID": 27,
+    "divisionCode": "610300",
     "cityName": "宝鸡市"
   },
   {
     "cityID": 298,
     "provinceID": 27,
+    "divisionCode": "610400",
     "cityName": "咸阳市"
   },
   {
     "cityID": 299,
     "provinceID": 27,
+    "divisionCode": "610500",
     "cityName": "渭南市"
   },
   {
     "cityID": 300,
     "provinceID": 27,
+    "divisionCode": "610600",
     "cityName": "延安市"
   },
   {
     "cityID": 301,
     "provinceID": 27,
+    "divisionCode": "610700",
     "cityName": "汉中市"
   },
   {
     "cityID": 302,
     "provinceID": 27,
+    "divisionCode": "610800",
     "cityName": "榆林市"
   },
   {
     "cityID": 303,
     "provinceID": 27,
+    "divisionCode": "610900",
     "cityName": "安康市"
   },
   {
     "cityID": 304,
     "provinceID": 27,
+    "divisionCode": "611000",
     "cityName": "商洛市"
   },
   {
     "cityID": 305,
     "provinceID": 28,
+    "divisionCode": "620100",
     "cityName": "兰州市"
   },
   {
     "cityID": 306,
     "provinceID": 28,
+    "divisionCode": "620200",
     "cityName": "嘉峪关市"
   },
   {
     "cityID": 307,
     "provinceID": 28,
+    "divisionCode": "620300",
     "cityName": "金昌市"
   },
   {
     "cityID": 308,
     "provinceID": 28,
+    "divisionCode": "620400",
     "cityName": "白银市"
   },
   {
     "cityID": 309,
     "provinceID": 28,
+    "divisionCode": "620500",
     "cityName": "天水市"
   },
   {
     "cityID": 310,
     "provinceID": 28,
+    "divisionCode": "620600",
     "cityName": "武威市"
   },
   {
     "cityID": 311,
     "provinceID": 28,
+    "divisionCode": "620700",
     "cityName": "张掖市"
   },
   {
     "cityID": 312,
     "provinceID": 28,
+    "divisionCode": "620800",
     "cityName": "平凉市"
   },
   {
     "cityID": 313,
     "provinceID": 28,
+    "divisionCode": "620900",
     "cityName": "酒泉市"
   },
   {
     "cityID": 314,
     "provinceID": 28,
+    "divisionCode": "621000",
     "cityName": "庆阳市"
   },
   {
     "cityID": 315,
     "provinceID": 28,
+    "divisionCode": "621100",
     "cityName": "定西市"
   },
   {
     "cityID": 316,
     "provinceID": 28,
+    "divisionCode": "621200",
     "cityName": "陇南市"
   },
   {
     "cityID": 317,
     "provinceID": 28,
+    "divisionCode": "622900",
     "cityName": "临夏回族自治州"
   },
   {
     "cityID": 318,
     "provinceID": 28,
+    "divisionCode": "623000",
     "cityName": "甘南藏族自治州"
   },
   {
     "cityID": 319,
     "provinceID": 29,
+    "divisionCode": "630100",
     "cityName": "西宁市"
   },
   {
     "cityID": 320,
     "provinceID": 29,
+    "divisionCode": "630200",
     "cityName": "海东市"
   },
   {
     "cityID": 321,
     "provinceID": 29,
+    "divisionCode": "632200",
     "cityName": "海北藏族自治州"
   },
   {
     "cityID": 322,
     "provinceID": 29,
+    "divisionCode": "632300",
     "cityName": "黄南藏族自治州"
   },
   {
     "cityID": 323,
     "provinceID": 29,
+    "divisionCode": "632500",
     "cityName": "海南藏族自治州"
   },
   {
     "cityID": 324,
     "provinceID": 29,
+    "divisionCode": "632600",
     "cityName": "果洛藏族自治州"
   },
   {
     "cityID": 325,
     "provinceID": 29,
+    "divisionCode": "632700",
     "cityName": "玉树藏族自治州"
   },
   {
     "cityID": 326,
     "provinceID": 29,
+    "divisionCode": "632800",
     "cityName": "海西蒙古族藏族自治州"
   },
   {
     "cityID": 327,
     "provinceID": 30,
+    "divisionCode": "640100",
     "cityName": "银川市"
   },
   {
     "cityID": 328,
     "provinceID": 30,
+    "divisionCode": "640200",
     "cityName": "石嘴山市"
   },
   {
     "cityID": 329,
     "provinceID": 30,
+    "divisionCode": "640300",
     "cityName": "吴忠市"
   },
   {
     "cityID": 330,
     "provinceID": 30,
+    "divisionCode": "640400",
     "cityName": "固原市"
   },
   {
     "cityID": 331,
     "provinceID": 30,
+    "divisionCode": "640500",
     "cityName": "中卫市"
   },
   {
     "cityID": 332,
     "provinceID": 31,
+    "divisionCode": "650100",
     "cityName": "乌鲁木齐市"
   },
   {
     "cityID": 333,
     "provinceID": 31,
+    "divisionCode": "650200",
     "cityName": "克拉玛依市"
   },
   {
     "cityID": 334,
     "provinceID": 31,
+    "divisionCode": "650400",
     "cityName": "吐鲁番市"
   },
   {
     "cityID": 335,
     "provinceID": 31,
+    "divisionCode": "652200",
     "cityName": "哈密地区"
   },
   {
     "cityID": 336,
     "provinceID": 31,
+    "divisionCode": "652300",
     "cityName": "昌吉回族自治州"
   },
   {
     "cityID": 337,
     "provinceID": 31,
+    "divisionCode": "652700",
     "cityName": "博尔塔拉蒙古自治州"
   },
   {
     "cityID": 338,
     "provinceID": 31,
+    "divisionCode": "652800",
     "cityName": "巴音郭楞蒙古自治州"
   },
   {
     "cityID": 339,
     "provinceID": 31,
+    "divisionCode": "652900",
     "cityName": "阿克苏地区"
   },
   {
     "cityID": 340,
     "provinceID": 31,
+    "divisionCode": "653000",
     "cityName": "克孜勒苏柯尔克孜自治州"
   },
   {
     "cityID": 341,
     "provinceID": 31,
+    "divisionCode": "653100",
     "cityName": "喀什地区"
   },
   {
     "cityID": 342,
     "provinceID": 31,
+    "divisionCode": "653200",
     "cityName": "和田地区"
   },
   {
     "cityID": 343,
     "provinceID": 31,
+    "divisionCode": "654000",
     "cityName": "伊犁哈萨克自治州"
   },
   {
     "cityID": 344,
     "provinceID": 31,
+    "divisionCode": "654200",
     "cityName": "塔城地区"
   },
   {
     "cityID": 345,
     "provinceID": 31,
+    "divisionCode": "654300",
     "cityName": "阿勒泰地区"
   },
   {
     "cityID": 346,
     "provinceID": 31,
+    "divisionCode": "659000",
     "cityName": "自治区直辖县级行政区划"
   }
 ]
